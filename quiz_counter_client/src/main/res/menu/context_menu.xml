@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="24sp">
+
+    <item android:id="@+id/menu_delete_team"
+        android:title="@string/menu_delete_team" />
+    <item android:id="@+id/menu_reset_team"
+        android:title="@string/menu_reset_team" />
+    <item android:id="@+id/menu_rename_team"
+        android:title="@string/menu_rename_team" />
+</menu>

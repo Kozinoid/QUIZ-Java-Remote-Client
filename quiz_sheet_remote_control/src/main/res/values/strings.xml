@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="bt_add">+</string>
+    <string name="bt_inc">+</string>
+    <string name="bt_dec">-</string>
+    <string name="unnamed_text">Unnamed team</string>
+    <string name="new_name_tittle">Enter New Team Name:</string>
+    <string name="ok_button_text">Ok</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="menu_delete_team">Delete team</string>
+    <string name="menu_reset_team">Reset team</string>
+    <string name="menu_rename_team">Rename team</string>
+    <string name="menu_reset_all">Reset all</string>
+    <string name="menu_delete_all">Delete all</string>
+    <string name="menu_exit">Exit</string>
+    <string name="bt_connect">IP</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_settings"
+        android:orderInCategory="1"
+        android:title="@string/bt_add"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/refresh_settings"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/fullscreen_settings"
+        android:orderInCategory="3"
+        android:icon="@drawable/ic_full_name"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/save_settings"
+        android:orderInCategory="4"
+        android:icon="@drawable/ic_save_name"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/open_settings"
+        android:orderInCategory="5"
+        android:icon="@drawable/ic_open_name"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/reset_all_settings"
+        android:orderInCategory="6"
+        android:title="@string/menu_reset_all" />
+    <item
+        android:id="@+id/delete_all_settings"
+        android:orderInCategory="7"
+        android:title="@string/menu_delete_all" />
+    <item
+        android:id="@+id/exit_settings"
+        android:orderInCategory="8"
+        android:title="@string/menu_exit" />
+</menu>

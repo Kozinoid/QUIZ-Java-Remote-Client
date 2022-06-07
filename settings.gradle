@@ -1,0 +1,9 @@
+rootProject.name='QUIZ'
+include ':app', ':android_tcp_client_device'
+include ':quiz_sheet_remote_control'
+include ':compoundview'
+include ':layoutsvariation'
+include ':udpclient'
+include ':quiz_counter_client'
+project(':quiz_sheet_remote_control').projectDir = new File('quiz_sheet_remote_control')
+include ':ipscanner'
